@@ -1,0 +1,18 @@
+xml.record(:title => "Restaurantes") do
+    xml.text("Tico-Tico")
+#    xml.entity("Ed. VII", :kind => "building")
+    xml.text("Girassol")
+#    xml.entity("Ed. VIII", :kind => "building")
+    xml.text("Restaurante c@mpos.come")
+#    xml.entity("Cantina", :kind => "building")
+    xml.text("Teresa Gato")
+#    xml.entity("Hangar I", :kind => "building")
+    xml.text("Espaço Mais")
+#    xml.entity("Ed. Departamental", :kind => "building")
+    xml.text("Snack-bar/Cantina")
+#    xml.entity("Cantina", :kind => "building")
+    xml.text("Book n'Bite")
+#    xml.entity("Biblioteca", :kind => "building")
+    xml.text("Casa do Pessoal")
+#    xml.entity("Hangar IV", :kind => "building")
+end

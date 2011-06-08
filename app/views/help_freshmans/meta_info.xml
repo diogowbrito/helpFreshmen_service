@@ -1,0 +1,48 @@
+<service name="helpfreshman" url="<%=@address%>">
+  <provider>G06</provider>
+  <serviceID>helpf</serviceID>
+  <type>academics</type>
+  <tags>
+    <tag>freshman</tag>
+    <tag>caloiro</tag>
+  </tags>
+  <search>no</search>
+  <referedEntities></referedEntities>
+  <informedEntities>
+    <entity>academics</entity>
+  </informedEntities>
+  <competences>
+    <competence path="/index" httpOp="">
+      <ctype>Home</ctype>
+      <description>Devolve a descrição do serviço</description>
+      <arglist/>
+      <interactionType>Indirect</interactionType>
+      <tags/>
+    </competence>
+    <competence path="/status" httpOp="">
+      <ctype>Status</ctype>
+      <description>Devolve o estado o serviço</description>
+      <arglist/>
+      <interactionType>Indirect</interactionType>
+      <tags/>
+    </competence>
+    <competence path="/metainfo" httpOp="">
+      <ctype>Metainfo</ctype>
+      <description>Devolve a meta info do serviço</description>
+      <arglist/>
+      <interactionType>Indirect</interactionType>
+      <tags/>
+    </competence>
+    <competence path="/recommendation" httpOp="">
+      <ctype>Recommendation</ctype>
+      <description>Devolve as recomendações para uma palavra</description>
+      <arglist>
+        <arg optional="false">keyword</arg>
+        <arg optional="true">start</arg>
+        <arg optional="true">end</arg>
+      </arglist>
+      <interactionType>Indirect</interactionType>
+      <tags/>
+    </competence>
+  </competences>
+</service>

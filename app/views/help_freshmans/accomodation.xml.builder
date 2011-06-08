@@ -1,0 +1,4 @@
+xml.record(:title => "Alojamento") do
+    xml.text("Os Alunos Nacionais que quiserem ter acesso à Residência Universitária Fraústo da Silva, no campus da Caparica, terão de fazer uma candidatura nos Serviços de Acção Social da Reitoria da UNL, mediante prazos e regras específicas, estipuladas por esse Serviço.")
+    xml.text("A Secção de Apoio ao Estudante (SAE) possui também uma base de dados de alojamento, com casas e quartos para alugar nos arredores do campus da Caparica, e que poderá ser consultada por alunos, docentes, funcionários e colaboradores da FCT, sendo a sua visualização restrita ao campus.")
+end

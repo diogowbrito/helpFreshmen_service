@@ -1,0 +1,2 @@
+module HelpFreshmansHelper
+end
