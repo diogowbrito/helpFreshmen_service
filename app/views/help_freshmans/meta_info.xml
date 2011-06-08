@@ -1,9 +1,9 @@
-<service name="helpfreshman" url="<%=@address%>">
+<service name="helpfreshmen" url="<%=@address%>">
   <provider>G06</provider>
   <serviceID>helpf</serviceID>
   <type>academics</type>
   <tags>
-    <tag>freshman</tag>
+    <tag>freshmen</tag>
     <tag>caloiro</tag>
   </tags>
   <search>no</search>

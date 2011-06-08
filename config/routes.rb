@@ -4,9 +4,9 @@ HelpfreshmanService::Application.routes.draw do
   match "metainfo" => "HelpFreshmans#meta_info", :defaults => { :format => :xml }
   match "index" => "HelpFreshmans#description", :defaults => { :format => :xml }
   match "status" => "HelpFreshmans#status", :defaults => { :format => :xml }
-  match "inscription" => "HelpFreshmans#inscription", :defaults => { :format => :xml }
-  match "knowledge" => "HelpFreshmans#knowledge", :defaults => { :format => :xml }
-  match "accomodation" => "HelpFreshmans#accomodation", :defaults => { :format => :xml }
+  match "helpfreshmen/inscription" => "HelpFreshmans#inscription", :defaults => { :format => :xml }
+  match "helpfreshmen/knowledge" => "HelpFreshmans#knowledge", :defaults => { :format => :xml }
+  match "helpfreshmen/accomodation" => "HelpFreshmans#accomodation", :defaults => { :format => :xml }
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

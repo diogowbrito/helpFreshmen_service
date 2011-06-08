@@ -1,6 +1,6 @@
 <record title="Serviço de ajuda a caloiros">
   <text>Este serviço fornece informação que os caloiros poderão achar necessária para uma melhor adaptação à faculdade</text>
-  <link href="<%=@address+'/inscription'%>">Inscrição</link>
-  <link href="<%=@address+'/knowledge'%>">Conhecer</link>
-  <link href="<%=@address+'/accomodation'%>">Alojamento</link>
+  <link href="<%=@address+'/helpfreshmen/inscription'%>">Inscrição</link>
+  <link href="<%=@address+'/helpfreshmen/knowledge'%>">Conhecer</link>
+  <link href="<%=@address+'/helpfreshmen/accomodation'%>">Alojamento</link>
 </record>
