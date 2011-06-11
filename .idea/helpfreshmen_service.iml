@@ -63,6 +63,9 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] mysql2 (v0.2.7, /home/pedro/.rvm/gems/ruby-1.9.2-p180@global/gems/mysql2-0.2.7)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rake (v0.8.7, /home/pedro/.rvm/gems/ruby-1.9.2-p180@global/gems/rake-0.8.7)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rake (v0.8.7, /home/pedro/.rvm/gems/ruby-1.9.2-p180@global/gems/rake-0.8.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack (v1.2.3, /home/jphorta/.rvm/gems/ruby-1.9.2-p180@global/gems/rack-1.2.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.5.0, /home/jphorta/.rvm/gems/ruby-1.9.2-p180@global/gems/i18n-0.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] bundler (v1.0.14, /home/jphorta/.rvm/gems/ruby-1.9.2-p180@global/gems/bundler-1.0.14)" level="application" />
   </component>
 </module>
 
