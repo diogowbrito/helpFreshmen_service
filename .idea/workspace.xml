@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970eaae6-ea67-42cd-9886-e1d6cbf914b3" name="Default" comment="">
-<<<<<<< HEAD
-=======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/helpfreshmen_service.iml" afterPath="$PROJECT_DIR$/.idea/helpfreshmen_service.iml" />
 >>>>>>> 020685fb010e88afc824e43c0de7d71181236180
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
