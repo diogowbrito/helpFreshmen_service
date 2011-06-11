@@ -1,6 +1,6 @@
 HelpfreshmanService::Application.routes.draw do
 
-
+  root :to => "HelpFreshmans#description", :defaults => { :format => :xml }
   match "metainfo" => "HelpFreshmans#meta_info", :defaults => { :format => :xml }
   match "index" => "HelpFreshmans#description", :defaults => { :format => :xml }
   match "status" => "HelpFreshmans#status", :defaults => { :format => :xml }
