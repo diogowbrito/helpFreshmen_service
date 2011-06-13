@@ -1,4 +1,4 @@
-<service name="helpfreshmen" url="<%=@address%>">
+<service name="AjudaCaloiros" url="<%=@address%>">
   <provider>G06</provider>
   <serviceID>helpf</serviceID>
   <type>academics</type>
