@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970eaae6-ea67-42cd-9886-e1d6cbf914b3" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/helpfreshmen_service.iml" afterPath="$PROJECT_DIR$/.idea/helpfreshmen_service.iml" />
+=======
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml" afterPath="$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml" />
     </list>
@@ -31,7 +34,56 @@
       <file leaf-file-name="meta_info.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+=======
+            <state line="5" column="16" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="description.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/description.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="28" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="status.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/status.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="18" selection-start="67" selection-end="67" vertical-scroll-proportion="0.05154639">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inscription.xml.builder" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/inscription.xml.builder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="knowledge.xml.builder" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/knowledge.xml.builder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
               <folding />
             </state>
           </provider>
@@ -46,11 +98,15 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml" />
-        <option value="$PROJECT_DIR$/app/views/help_freshmans/description.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/help_freshmans/description.xml" />
         <option value="$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml" />
+=======
+        <option value="$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml" />
+        <option value="$PROJECT_DIR$/app/views/help_freshmans/description.xml" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
       </list>
     </option>
   </component>
@@ -80,6 +136,7 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -92,6 +149,8 @@
         </subPane>
       </pane>
       <pane id="Favorites" />
+=======
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
       <pane id="RailsProjectView">
         <subPane>
           <PATH>
@@ -104,10 +163,7 @@
               <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="helpfreshmen_service" />
@@ -138,12 +194,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ApplicationController" />
               <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ControllerClassNode" />
+=======
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpfreshmen_service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,7 +390,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985073" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293461" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -373,6 +441,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/inscription.xml.builder">
+<<<<<<< HEAD
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml">
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
@@ -387,37 +463,25 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="753" selection-end="827" vertical-scroll-proportion="0.02636204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/status.xml">
+=======
     <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/inscription.xml.builder">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="753" selection-end="827" vertical-scroll-proportion="0.02636204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/status.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="753" selection-end="827" vertical-scroll-proportion="0.02636204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/status.xml">
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/description.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="2" column="28" selection-start="199" selection-end="199" vertical-scroll-proportion="0.053956833">
           <folding />
         </state>
@@ -426,6 +490,14 @@
     <entry file="file://$PROJECT_DIR$/app/views/help_freshmans/meta_info.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+=======
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="67" selection-end="67" vertical-scroll-proportion="0.05154639">
+>>>>>>> 0c9eccaae38ee0a443ba6c86fc40eaea9ef55ee9
           <folding />
         </state>
       </provider>
